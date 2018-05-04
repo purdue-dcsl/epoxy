@@ -1,4 +1,4 @@
-EPOXY Embedded Privilege Overlays for X hardware with Y software
+<h3> EPOXY Embedded Privilege Overlays for X hardware with Y software </h3>
 
 This is the compiler used in "Protecting Bare-metal Embedded Systems With Privilege Overlays", from IEEE Security and Privacy 2017 Paper
 
