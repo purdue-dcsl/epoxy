@@ -24,7 +24,7 @@ Building LLVM is memory intensive recommend >=16GB of memory.
 To setup clone this repo to a directory <YOUR_DIR>, this can be any name you choose
 ```
 cd <YOUR_DIR>
-git clone git@github.com:HexHive/EPOXY.git
+git clone git@github.com:purdue-dcsl/epoxy.git EPOXY
 ```
 
 Then cd into EPOXY and run the following scripts
