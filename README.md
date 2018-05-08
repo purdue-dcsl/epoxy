@@ -2,7 +2,9 @@
 
 This is the compiler used in
 "Protecting Bare-metal Embedded Systems With Privilege Overlays",
-from IEEE Security and Privacy 2017 [Paper](http://hexhive.github.io/publications/files/17Oakland.pdf)
+from IEEE Security and Privacy 2017 [Paper](https://engineering.purdue.edu/dcsl/publications/papers/2017/final_oakland17-epoxy_cameraready.pdf)
+and was jointly developed by [DCSL](https://engineering.purdue.edu/dcsl/)
+and [HexHive](http://hexhive.github.io/) both at Purdue.
 
 ## Preqs
 
