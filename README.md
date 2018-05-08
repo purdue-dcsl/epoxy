@@ -39,7 +39,7 @@ create the following directory structure.
 
 ```
 <YOUR_DIR>
-  |--> EPOXY (This Repo)
+  |--> EPOXY (This Repo, make sure is all caps)
   |--> EPOXY-llvm   (The EPOXY-llvm repo)
   |--> EPOXY-clang  (The EPOXY-clang repo)
   |--> llvm_build   (The directory llvm will be built in)
